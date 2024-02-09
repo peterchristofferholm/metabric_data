@@ -1,0 +1,1981 @@
+patientId	time	event	event_str	split
+MB-0000	4275	0	Living	test
+MB-0002	2575	0	Living	train
+MB-0005	4981	1	Died of Disease	test
+MB-0006	5018	0	Living	test
+MB-0008	1258	1	Died of Disease	train
+MB-0010	237	1	Died of Disease	test
+MB-0014	5000	0	Living	test
+MB-0020	681	1	Died of Disease	train
+MB-0022	3028	2	Died of Other Causes	train
+MB-0028	1112	2	Died of Other Causes	train
+MB-0035	1103	1	Died of Disease	test
+MB-0036	4017	1	Died of Disease	test
+MB-0039	4976	0	Living	train
+MB-0045	5017	0	Living	train
+MB-0046	430	2	Died of Other Causes	train
+MB-0048	3159	0	Living	train
+MB-0050	2292	0	Living	test
+MB-0053	4901	0	Living	test
+MB-0054	4877	0	Living	train
+MB-0056	1913	0	Living	test
+MB-0059	4896	0	Living	train
+MB-0060	4286	0	Living	train
+MB-0062	4685	0	Living	train
+MB-0064	3314	0	Living	test
+MB-0066	4790	0	Living	test
+MB-0068	3138	0	Living	test
+MB-0071	3986	2	Died of Other Causes	test
+MB-0079	867	1	Died of Disease	test
+MB-0081	2114	0	Living	test
+MB-0083	2619	1	Died of Disease	test
+MB-0093	4661	0	Living	train
+MB-0095	1514	2	Died of Other Causes	test
+MB-0097	3003	0	Living	train
+MB-0099	4019	1	Died of Disease	test
+MB-0100	245	1	Died of Disease	train
+MB-0101	4504	0	Living	test
+MB-0102	4283	1	Died of Disease	test
+MB-0106	2596	0	Living	test
+MB-0107	4808	0	Living	train
+MB-0108	1299	1	Died of Disease	train
+MB-0109	3420	2	Died of Other Causes	train
+MB-0110	4792	0	Living	train
+MB-0111	3867	0	Living	test
+MB-0112	1191	1	Died of Disease	train
+MB-0113	1313	0	Living	test
+MB-0114	407	0	Living	test
+MB-0115	2030	1	Died of Disease	test
+MB-0116	3720	0	Living	test
+MB-0117	73	0	Living	test
+MB-0119	2917	1	Died of Disease	test
+MB-0120	884	1	Died of Disease	test
+MB-0121	4631	0	Living	train
+MB-0122	4226	0	Living	test
+MB-0123	3476	2	Died of Other Causes	train
+MB-0124	3596	0	Living	test
+MB-0125	38	0	Living	train
+MB-0126	3883	0	Living	test
+MB-0127	4018	0	Living	test
+MB-0128	4193	0	Living	test
+MB-0129	1173	2	Died of Other Causes	test
+MB-0130	4673	0	Living	test
+MB-0131	2027	1	Died of Disease	test
+MB-0133	4594	0	Living	test
+MB-0134	393	1	Died of Disease	test
+MB-0135	3549	0	Living	test
+MB-0136	2683	0	Living	test
+MB-0138	4581	0	Living	train
+MB-0139	3322	0	Living	train
+MB-0140	4501	0	Living	test
+MB-0142	377	0	Living	train
+MB-0143	1653	2	Died of Other Causes	test
+MB-0144	4627	1	Died of Disease	train
+MB-0145	4493	0	Living	test
+MB-0146	3717	2	Died of Other Causes	test
+MB-0147	1575	1	Died of Disease	test
+MB-0148	53	0	Living	test
+MB-0149	1573	2	Died of Other Causes	test
+MB-0150	3383	0	Living	train
+MB-0151	1498	1	Died of Disease	test
+MB-0152	1918	0	Living	test
+MB-0153	4520	0	Living	test
+MB-0154	3492	0	Living	test
+MB-0155	1819	0	Living	train
+MB-0156	87	0	Living	test
+MB-0157	3492	0	Living	train
+MB-0158	5851	0	Living	train
+MB-0159	2291	0	Living	test
+MB-0160	4367	0	Living	train
+MB-0162	1696	0	Living	test
+MB-0163	2985	2	Died of Other Causes	test
+MB-0164	329	0	Living	test
+MB-0165	1449	1	Died of Disease	test
+MB-0166	3176	0	Living	test
+MB-0167	1311	1	Died of Disease	test
+MB-0168	3735	0	Living	test
+MB-0169	4425	2	Died of Other Causes	train
+MB-0170	2841	2	Died of Other Causes	test
+MB-0171	165	0	Living	test
+MB-0172	4202	0	Living	test
+MB-0173	114	0	Living	test
+MB-0174	2396	0	Living	test
+MB-0175	2202	0	Living	test
+MB-0176	3451	0	Living	test
+MB-0177	1387	2	Died of Other Causes	train
+MB-0178	3178	1	Died of Disease	train
+MB-0179	545	1	Died of Disease	test
+MB-0180	1896	0	Living	test
+MB-0181	2615	0	Living	test
+MB-0184	3317	0	Living	test
+MB-0185	1333	1	Died of Disease	test
+MB-0188	952	1	Died of Disease	train
+MB-0189	275	1	Died of Disease	test
+MB-0191	465	2	Died of Other Causes	train
+MB-0192	4401	0	Living	train
+MB-0193	578	0	Living	test
+MB-0194	2787	0	Living	test
+MB-0195	4442	0	Living	test
+MB-0197	2152	0	Living	train
+MB-0198	4405	0	Living	train
+MB-0199	4394	0	Living	test
+MB-0200	3982	1	Died of Disease	test
+MB-0201	3825	0	Living	test
+MB-0202	3906	0	Living	test
+MB-0203	1788	2	Died of Other Causes	test
+MB-0204	739	1	Died of Disease	test
+MB-0205	4396	0	Living	test
+MB-0206	4295	0	Living	test
+MB-0207	5283	0	Living	train
+MB-0209	2506	0	Living	test
+MB-0210	4410	0	Living	test
+MB-0211	1363	1	Died of Disease	train
+MB-0214	4470	0	Living	test
+MB-0215	3718	0	Living	test
+MB-0218	3988	0	Living	test
+MB-0220	1212	1	Died of Disease	test
+MB-0221	614	1	Died of Disease	train
+MB-0222	6472	0	Living	test
+MB-0223	2474	1	Died of Disease	test
+MB-0224	5379	0	Living	train
+MB-0225	6457	0	Living	test
+MB-0226	1753	0	Living	train
+MB-0227	3404	0	Living	test
+MB-0228	329	1	Died of Disease	train
+MB-0229	2175	0	Living	train
+MB-0230	6096	0	Living	test
+MB-0231	596	0	Living	test
+MB-0232	6318	0	Living	test
+MB-0233	2204	2	Died of Other Causes	test
+MB-0234	2867	2	Died of Other Causes	test
+MB-0235	4338	1	Died of Disease	test
+MB-0236	6239	0	Living	train
+MB-0238	5878	0	Living	test
+MB-0239	2603	1	Died of Disease	test
+MB-0241	2225	1	Died of Disease	train
+MB-0242	6058	0	Living	test
+MB-0243	4557	0	Living	test
+MB-0244	4556	0	Living	train
+MB-0245	5011	0	Living	test
+MB-0247	5647	0	Living	test
+MB-0248	2160	0	Living	test
+MB-0249	5730	0	Living	test
+MB-0253	4634	0	Living	test
+MB-0256	6107	0	Living	train
+MB-0257	2791	1	Died of Disease	test
+MB-0258	2621	0	Living	train
+MB-0259	361	1	Died of Disease	train
+MB-0260	5168	2	Died of Other Causes	test
+MB-0261	2745	1	Died of Disease	test
+MB-0262	5546	2	Died of Other Causes	train
+MB-0263	5356	2	Died of Other Causes	train
+MB-0264	1311	1	Died of Disease	train
+MB-0265	5755	0	Living	train
+MB-0266	2758	2	Died of Other Causes	test
+MB-0268	867	1	Died of Disease	train
+MB-0269	676	0	Living	test
+MB-0270	10255	0	Living	train
+MB-0272	3712	1	Died of Disease	train
+MB-0273	5676	0	Living	test
+MB-0275	5663	0	Living	test
+MB-0278	177	1	Died of Disease	train
+MB-0279	5850	2	Died of Other Causes	train
+MB-0280	5261	1	Died of Disease	test
+MB-0281	2215	0	Living	train
+MB-0282	5910	0	Living	test
+MB-0283	670	1	Died of Disease	train
+MB-0284	0	0	Living	train
+MB-0285	102	0	Living	test
+MB-0286	5860	0	Living	test
+MB-0287	2882	2	Died of Other Causes	train
+MB-0288	1941	1	Died of Disease	train
+MB-0289	2178	2	Died of Other Causes	train
+MB-0290	6071	0	Living	test
+MB-0291	1192	1	Died of Disease	test
+MB-0292	1504	2	Died of Other Causes	train
+MB-0293	1958	0	Living	test
+MB-0294	2218	0	Living	test
+MB-0295	5005	0	Living	train
+MB-0299	5724	0	Living	test
+MB-0301	3733	2	Died of Other Causes	test
+MB-0302	2562	1	Died of Disease	train
+MB-0303	1829	0	Living	train
+MB-0304	3393	1	Died of Disease	train
+MB-0305	1932	1	Died of Disease	train
+MB-0306	1307	1	Died of Disease	test
+MB-0307	5396	0	Living	train
+MB-0308	5576	0	Living	test
+MB-0309	1288	2	Died of Other Causes	train
+MB-0310	5634	0	Living	test
+MB-0311	4600	2	Died of Other Causes	test
+MB-0312	5160	1	Died of Disease	test
+MB-0313	5622	0	Living	train
+MB-0314	134	1	Died of Disease	test
+MB-0315	5666	0	Living	test
+MB-0316	5565	0	Living	test
+MB-0317	4615	2	Died of Other Causes	train
+MB-0318	5133	0	Living	test
+MB-0319	1238	1	Died of Disease	test
+MB-0320	1939	0	Living	test
+MB-0321	5314	0	Living	train
+MB-0322	1537	2	Died of Other Causes	train
+MB-0324	4411	1	Died of Disease	train
+MB-0325	5402	0	Living	train
+MB-0327	5718	0	Living	train
+MB-0328	3822	1	Died of Disease	train
+MB-0333	808	1	Died of Disease	train
+MB-0336	5192	1	Died of Disease	test
+MB-0339	813	2	Died of Other Causes	train
+MB-0340	5012	0	Living	test
+MB-0341	5291	1	Died of Disease	test
+MB-0342	3813	1	Died of Disease	train
+MB-0343	2773	1	Died of Disease	train
+MB-0344	4653	0	Living	train
+MB-0345	2211	0	Living	test
+MB-0346	621	1	Died of Disease	test
+MB-0347	6255	1	Died of Disease	test
+MB-0348	3733	2	Died of Other Causes	test
+MB-0349	4443	2	Died of Other Causes	test
+MB-0350	1401	1	Died of Disease	test
+MB-0351	5943	2	Died of Other Causes	train
+MB-0352	1679	1	Died of Disease	test
+MB-0353	1272	2	Died of Other Causes	train
+MB-0354	352	1	Died of Disease	test
+MB-0356	6496	0	Living	test
+MB-0358	1000	0	Living	train
+MB-0359	657	0	Living	train
+MB-0360	4034	1	Died of Disease	test
+MB-0361	458	2	Died of Other Causes	test
+MB-0362	1431	1	Died of Disease	train
+MB-0363	2735	1	Died of Disease	test
+MB-0364	5373	0	Living	train
+MB-0365	2654	1	Died of Disease	train
+MB-0366	1954	0	Living	train
+MB-0367	4334	0	Living	train
+MB-0368	1883	1	Died of Disease	test
+MB-0369	4392	0	Living	train
+MB-0370	2845	2	Died of Other Causes	test
+MB-0371	3990	0	Living	test
+MB-0372	1909	1	Died of Disease	train
+MB-0373	821	1	Died of Disease	test
+MB-0374	43	0	Living	test
+MB-0375	4356	0	Living	train
+MB-0377	4088	0	Living	test
+MB-0378	2960	1	Died of Disease	train
+MB-0379	4128	0	Living	test
+MB-0380	2109	2	Died of Other Causes	test
+MB-0381	3961	0	Living	test
+MB-0382	4152	0	Living	test
+MB-0383	2608	1	Died of Disease	train
+MB-0384	1859	1	Died of Disease	test
+MB-0385	1108	1	Died of Disease	test
+MB-0386	4203	0	Living	train
+MB-0388	2968	0	Living	test
+MB-0389	2950	0	Living	test
+MB-0390	2197	1	Died of Disease	test
+MB-0391	4335	0	Living	train
+MB-0392	1160	1	Died of Disease	test
+MB-0393	633	1	Died of Disease	test
+MB-0394	1954	0	Living	train
+MB-0395	882	1	Died of Disease	test
+MB-0396	1846	0	Living	test
+MB-0397	1741	0	Living	train
+MB-0398	1314	1	Died of Disease	test
+MB-0399	4171	2	Died of Other Causes	test
+MB-0400	683	1	Died of Disease	train
+MB-0401	799	1	Died of Disease	test
+MB-0402	3034	0	Living	test
+MB-0403	4290	0	Living	train
+MB-0404	1932	0	Living	test
+MB-0405	1797	2	Died of Other Causes	test
+MB-0406	2948	1	Died of Disease	train
+MB-0408	3098	0	Living	test
+MB-0410	1917	0	Living	test
+MB-0411	4234	0	Living	test
+MB-0412	4143	0	Living	test
+MB-0413	4262	0	Living	test
+MB-0414	2331	0	Living	train
+MB-0417	190	1	Died of Disease	test
+MB-0418	3105	0	Living	test
+MB-0419	3173	2	Died of Other Causes	test
+MB-0420	2334	0	Living	train
+MB-0421	2829	2	Died of Other Causes	test
+MB-0422	1028	2	Died of Other Causes	train
+MB-0423	4227	0	Living	train
+MB-0424	299	1	Died of Disease	train
+MB-0425	742	2	Died of Other Causes	train
+MB-0426	3989	0	Living	train
+MB-0427	3532	0	Living	train
+MB-0428	1702	0	Living	test
+MB-0429	2266	2	Died of Other Causes	train
+MB-0431	2590	0	Living	test
+MB-0432	3219	0	Living	test
+MB-0434	1384	1	Died of Disease	test
+MB-0435	3363	0	Living	test
+MB-0436	2297	2	Died of Other Causes	test
+MB-0437	2755	0	Living	train
+MB-0438	4113	0	Living	test
+MB-0439	3412	0	Living	test
+MB-0440	3068	0	Living	train
+MB-0442	3148	1	Died of Disease	test
+MB-0443	1370	0	Living	train
+MB-0444	1687	1	Died of Disease	test
+MB-0445	4032	0	Living	train
+MB-0446	2199	0	Living	test
+MB-0448	889	1	Died of Disease	train
+MB-0449	3425	0	Living	train
+MB-0451	1523	0	Living	test
+MB-0452	1911	0	Living	test
+MB-0453	1312	1	Died of Disease	train
+MB-0454	1425	2	Died of Other Causes	test
+MB-0455	3022	0	Living	test
+MB-0458	4092	0	Living	test
+MB-0459	1083	2	Died of Other Causes	train
+MB-0460	3469	1	Died of Disease	test
+MB-0462	4040	0	Living	train
+MB-0463	3668	1	Died of Disease	test
+MB-0464	1195	1	Died of Disease	train
+MB-0465	870	1	Died of Disease	test
+MB-0466	1334	0	Living	train
+MB-0467	3213	1	Died of Disease	test
+MB-0468	3943	2	Died of Other Causes	train
+MB-0469	3994	0	Living	train
+MB-0470	2684	0	Living	train
+MB-0471	3270	0	Living	test
+MB-0472	833	0	Living	test
+MB-0474	3380	1	Died of Disease	train
+MB-0475	3977	0	Living	train
+MB-0476	3969	0	Living	train
+MB-0478	4025	0	Living	train
+MB-0479	4040	0	Living	train
+MB-0480	2877	0	Living	test
+MB-0481	1107	1	Died of Disease	test
+MB-0482	756	1	Died of Disease	test
+MB-0483	2266	1	Died of Disease	test
+MB-0484	2514	0	Living	train
+MB-0485	1118	1	Died of Disease	train
+MB-0486	2737	0	Living	train
+MB-0487	2644	0	Living	test
+MB-0488	3436	0	Living	test
+MB-0489	2755	0	Living	train
+MB-0490	3102	0	Living	test
+MB-0491	3828	0	Living	train
+MB-0492	2468	2	Died of Other Causes	test
+MB-0494	1114	1	Died of Disease	test
+MB-0495	2184	1	Died of Disease	train
+MB-0496	3983	0	Living	test
+MB-0497	2242	0	Living	train
+MB-0499	4013	0	Living	train
+MB-0500	2053	0	Living	train
+MB-0501	2175	0	Living	test
+MB-0502	2498	0	Living	test
+MB-0503	3080	0	Living	test
+MB-0504	3970	0	Living	train
+MB-0505	1847	0	Living	test
+MB-0506	1393	1	Died of Disease	test
+MB-0507	724	0	Living	test
+MB-0508	3479	0	Living	test
+MB-0509	3508	0	Living	train
+MB-0510	3907	0	Living	train
+MB-0511	1877	0	Living	train
+MB-0512	3698	0	Living	train
+MB-0513	3561	0	Living	train
+MB-0514	407	0	Living	train
+MB-0516	3483	0	Living	train
+MB-0517	1883	0	Living	test
+MB-0519	3376	0	Living	test
+MB-0521	6457	0	Living	test
+MB-0522	76	0	Living	test
+MB-0524	2459	0	Living	train
+MB-0525	2004	0	Living	train
+MB-0526	4249	2	Died of Other Causes	train
+MB-0527	3342	2	Died of Other Causes	test
+MB-0528	5902	0	Living	test
+MB-0529	1476	1	Died of Disease	test
+MB-0531	4986	0	Living	train
+MB-0532	4355	1	Died of Disease	test
+MB-0534	3776	0	Living	train
+MB-0535	6059	0	Living	test
+MB-0536	4484	2	Died of Other Causes	test
+MB-0537	3455	0	Living	test
+MB-0538	733	1	Died of Disease	train
+MB-0539	2601	2	Died of Other Causes	test
+MB-0540	5919	0	Living	test
+MB-0541	5302	0	Living	train
+MB-0542	1478	1	Died of Disease	train
+MB-0543	4709	0	Living	test
+MB-0544	2414	2	Died of Other Causes	test
+MB-0545	1252	2	Died of Other Causes	test
+MB-0546	5897	0	Living	train
+MB-0549	790	0	Living	train
+MB-0550	4026	1	Died of Disease	test
+MB-0551	1581	1	Died of Disease	test
+MB-0552	2071	1	Died of Disease	train
+MB-0553	2608	2	Died of Other Causes	train
+MB-0554	3382	2	Died of Other Causes	train
+MB-0558	2977	2	Died of Other Causes	train
+MB-0559	4922	0	Living	test
+MB-0564	1154	1	Died of Disease	train
+MB-0568	5522	0	Living	train
+MB-0569	1810	1	Died of Disease	test
+MB-0570	8283	0	Living	test
+MB-0571	4560	0	Living	train
+MB-0573	4966	2	Died of Other Causes	test
+MB-0574	3645	0	Living	train
+MB-0575	3912	0	Living	train
+MB-0576	943	1	Died of Disease	train
+MB-0577	1990	0	Living	train
+MB-0578	3350	0	Living	test
+MB-0579	2822	2	Died of Other Causes	train
+MB-0580	2415	1	Died of Disease	train
+MB-0581	239	1	Died of Disease	test
+MB-0582	472	2	Died of Other Causes	train
+MB-0583	1905	0	Living	train
+MB-0584	3596	0	Living	train
+MB-0585	3520	1	Died of Disease	test
+MB-0586	2350	2	Died of Other Causes	train
+MB-0587	2777	0	Living	test
+MB-0588	3643	0	Living	train
+MB-0589	3828	0	Living	test
+MB-0590	2205	2	Died of Other Causes	train
+MB-0591	3635	1	Died of Disease	train
+MB-0592	2269	0	Living	train
+MB-0593	1054	1	Died of Disease	test
+MB-0594	1346	0	Living	test
+MB-0596	3259	2	Died of Other Causes	train
+MB-0597	3444	2	Died of Other Causes	train
+MB-0598	2719	1	Died of Disease	test
+MB-0599	3751	0	Living	test
+MB-0600	3377	0	Living	train
+MB-0601	902	1	Died of Disease	test
+MB-0603	3711	0	Living	test
+MB-0605	3487	0	Living	test
+MB-0606	835	1	Died of Disease	train
+MB-0607	2672	0	Living	train
+MB-0608	1946	2	Died of Other Causes	train
+MB-0609	3003	1	Died of Disease	test
+MB-0610	2333	0	Living	train
+MB-0611	3180	0	Living	test
+MB-0613	1484	0	Living	test
+MB-0614	3631	0	Living	test
+MB-0615	1057	0	Living	train
+MB-0616	883	2	Died of Other Causes	test
+MB-0617	2828	2	Died of Other Causes	train
+MB-0618	3100	0	Living	train
+MB-0619	2867	0	Living	test
+MB-0620	3432	0	Living	test
+MB-0621	1021	0	Living	test
+MB-0623	3379	0	Living	test
+MB-0624	1948	0	Living	test
+MB-0626	1081	1	Died of Disease	train
+MB-0627	23	0	Living	train
+MB-0628	3224	0	Living	test
+MB-0630	2641	0	Living	test
+MB-0631	1443	1	Died of Disease	test
+MB-0632	1719	0	Living	test
+MB-0634	540	0	Living	train
+MB-0635	2677	0	Living	test
+MB-0636	993	1	Died of Disease	test
+MB-0637	2454	0	Living	test
+MB-0638	3157	2	Died of Other Causes	train
+MB-0639	2294	0	Living	test
+MB-0640	1866	0	Living	test
+MB-0641	3121	0	Living	test
+MB-0642	2562	2	Died of Other Causes	test
+MB-0643	600	2	Died of Other Causes	test
+MB-0644	2839	0	Living	train
+MB-0646	461	1	Died of Disease	test
+MB-0649	1869	0	Living	test
+MB-0650	776	0	Living	test
+MB-0652	2940	1	Died of Disease	train
+MB-0653	754	1	Died of Disease	train
+MB-0654	2111	0	Living	test
+MB-0655	3379	0	Living	test
+MB-0656	579	1	Died of Disease	test
+MB-0657	926	0	Living	train
+MB-0658	2959	0	Living	test
+MB-0659	710	1	Died of Disease	test
+MB-0660	576	1	Died of Disease	train
+MB-0661	608	1	Died of Disease	test
+MB-0662	2124	1	Died of Disease	train
+MB-0663	1684	0	Living	test
+MB-0664	336	1	Died of Disease	test
+MB-0666	740	1	Died of Disease	train
+MB-0667	3895	1	Died of Disease	train
+MB-0869	3420	2	Died of Other Causes	train
+MB-0872	4627	2	Died of Other Causes	test
+MB-0874	505	1	Died of Disease	train
+MB-0876	5368	0	Living	train
+MB-0877	439	1	Died of Disease	test
+MB-0880	37	0	Living	test
+MB-0882	1289	1	Died of Disease	train
+MB-0884	2850	1	Died of Disease	test
+MB-0885	2128	1	Died of Disease	test
+MB-0891	4546	0	Living	test
+MB-0893	5344	0	Living	test
+MB-0895	1311	2	Died of Other Causes	train
+MB-0897	942	2	Died of Other Causes	test
+MB-0899	5349	0	Living	train
+MB-0901	4143	0	Living	test
+MB-0904	4403	2	Died of Other Causes	train
+MB-0906	1943	2	Died of Other Causes	train
+MB-0907	3650	2	Died of Other Causes	train
+MB-2513	1816	1	Died of Disease	test
+MB-2517	8168	2	Died of Other Causes	test
+MB-2536	1457	2	Died of Other Causes	test
+MB-2556	6721	2	Died of Other Causes	test
+MB-2564	8685	0	Living	train
+MB-2610	8541	0	Living	train
+MB-2613	4972	0	Living	train
+MB-2614	1975	1	Died of Disease	train
+MB-2616	6669	1	Died of Disease	test
+MB-2617	2711	1	Died of Disease	test
+MB-2618	2711	1	Died of Disease	train
+MB-2624	3911	0	Living	test
+MB-2626	5894	0	Living	train
+MB-2629	8493	0	Living	train
+MB-2632	581	1	Died of Disease	train
+MB-2634	8338	0	Living	train
+MB-2642	1374	1	Died of Disease	test
+MB-2643	1611	1	Died of Disease	test
+MB-2645	1362	1	Died of Disease	train
+MB-2669	2242	1	Died of Disease	test
+MB-2686	5394	0	Living	test
+MB-2705	4982	0	Living	train
+MB-2708	4054	1	Died of Disease	test
+MB-2711	6130	0	Living	test
+MB-2712	7133	2	Died of Other Causes	test
+MB-2718	8467	0	Living	train
+MB-2721	7657	0	Living	test
+MB-2724	3288	1	Died of Disease	test
+MB-2725	7209	0	Living	test
+MB-2728	1564	1	Died of Disease	test
+MB-2730	4069	0	Living	test
+MB-2735	8353	0	Living	train
+MB-2742	757	1	Died of Disease	test
+MB-2744	8387	0	Living	test
+MB-2745	5141	1	Died of Disease	test
+MB-2747	7130	2	Died of Other Causes	train
+MB-2749	2975	2	Died of Other Causes	train
+MB-2750	4425	2	Died of Other Causes	test
+MB-2752	2493	1	Died of Disease	test
+MB-2753	8349	0	Living	test
+MB-2754	6193	1	Died of Disease	test
+MB-2758	1065	1	Died of Disease	test
+MB-2760	3591	1	Died of Disease	test
+MB-2763	8386	0	Living	test
+MB-2764	8220	1	Died of Disease	train
+MB-2765	6933	2	Died of Other Causes	test
+MB-2767	8256	0	Living	train
+MB-2769	4868	0	Living	test
+MB-2770	8348	0	Living	test
+MB-2771	1364	1	Died of Disease	test
+MB-2772	4586	2	Died of Other Causes	train
+MB-2774	4006	2	Died of Other Causes	train
+MB-2778	5514	1	Died of Disease	test
+MB-2779	8375	0	Living	test
+MB-2781	1230	2	Died of Other Causes	train
+MB-2786	2077	1	Died of Disease	test
+MB-2790	3558	0	Living	train
+MB-2791	8274	0	Living	train
+MB-2792	3370	1	Died of Disease	train
+MB-2793	8131	0	Living	train
+MB-2795	8280	0	Living	train
+MB-2796	2668	1	Died of Disease	test
+MB-2797	7697	0	Living	test
+MB-2801	8254	0	Living	train
+MB-2803	2612	1	Died of Disease	test
+MB-2814	7030	2	Died of Other Causes	test
+MB-2815	7837	0	Living	train
+MB-2819	8233	0	Living	test
+MB-2820	7748	0	Living	train
+MB-2821	4140	2	Died of Other Causes	train
+MB-2823	8213	0	Living	train
+MB-2827	7171	0	Living	train
+MB-2833	7904	0	Living	train
+MB-2834	4681	2	Died of Other Causes	train
+MB-2835	1674	2	Died of Other Causes	test
+MB-2838	8225	0	Living	test
+MB-2840	8185	0	Living	test
+MB-2842	600	1	Died of Disease	test
+MB-2843	7045	2	Died of Other Causes	test
+MB-2844	4465	0	Living	test
+MB-2845	8056	0	Living	train
+MB-2846	4555	1	Died of Disease	train
+MB-2847	1202	1	Died of Disease	train
+MB-2848	6929	2	Died of Other Causes	train
+MB-2849	1314	1	Died of Disease	train
+MB-2850	287	1	Died of Disease	test
+MB-2851	4838	1	Died of Disease	train
+MB-2853	8204	0	Living	test
+MB-2854	8229	0	Living	train
+MB-2857	7627	0	Living	test
+MB-2858	4307	2	Died of Other Causes	train
+MB-2863	7861	0	Living	train
+MB-2867	8195	0	Living	train
+MB-2895	5981	1	Died of Disease	train
+MB-2896	7223	2	Died of Other Causes	test
+MB-2900	628	2	Died of Other Causes	test
+MB-2901	6642	1	Died of Disease	test
+MB-2904	3822	1	Died of Disease	test
+MB-2912	8136	0	Living	test
+MB-2916	8122	0	Living	train
+MB-2917	971	1	Died of Disease	test
+MB-2919	7304	2	Died of Other Causes	test
+MB-2922	438	1	Died of Disease	test
+MB-2923	429	1	Died of Disease	train
+MB-2927	8024	1	Died of Disease	train
+MB-2929	7999	2	Died of Other Causes	test
+MB-2931	6941	2	Died of Other Causes	test
+MB-2932	3299	0	Living	train
+MB-2933	4927	2	Died of Other Causes	test
+MB-2939	3081	2	Died of Other Causes	test
+MB-2944	827	1	Died of Disease	test
+MB-2947	3408	0	Living	test
+MB-2951	8014	0	Living	train
+MB-2952	5754	2	Died of Other Causes	test
+MB-2953	916	1	Died of Disease	test
+MB-2954	167	1	Died of Disease	test
+MB-2957	7976	0	Living	train
+MB-2960	6761	2	Died of Other Causes	train
+MB-2963	6932	1	Died of Disease	test
+MB-2964	292	1	Died of Disease	train
+MB-2966	8063	0	Living	test
+MB-2969	5261	2	Died of Other Causes	train
+MB-2970	7694	1	Died of Disease	test
+MB-2971	8040	0	Living	test
+MB-2977	3365	2	Died of Other Causes	test
+MB-2983	5502	2	Died of Other Causes	test
+MB-2984	7948	0	Living	train
+MB-2990	7911	0	Living	train
+MB-2993	5691	0	Living	train
+MB-2994	7744	0	Living	train
+MB-2996	5819	0	Living	train
+MB-2999	7972	0	Living	test
+MB-3001	8010	0	Living	test
+MB-3002	4277	2	Died of Other Causes	train
+MB-3005	7700	0	Living	test
+MB-3006	477	1	Died of Disease	test
+MB-3007	3496	1	Died of Disease	test
+MB-3008	4552	0	Living	test
+MB-3013	7253	0	Living	test
+MB-3014	7991	0	Living	test
+MB-3016	7877	0	Living	train
+MB-3021	6620	2	Died of Other Causes	train
+MB-3025	7790	0	Living	test
+MB-3026	7948	0	Living	test
+MB-3028	1295	1	Died of Disease	test
+MB-3031	1084	1	Died of Disease	train
+MB-3032	7611	0	Living	test
+MB-3033	2142	1	Died of Disease	train
+MB-3035	7934	0	Living	train
+MB-3037	3007	0	Living	train
+MB-3046	2246	2	Died of Other Causes	test
+MB-3049	7910	0	Living	test
+MB-3050	7762	2	Died of Other Causes	test
+MB-3057	974	1	Died of Disease	test
+MB-3058	7737	0	Living	test
+MB-3060	1357	1	Died of Disease	test
+MB-3062	4453	0	Living	train
+MB-3063	869	1	Died of Disease	train
+MB-3064	5026	1	Died of Disease	train
+MB-3067	7897	0	Living	train
+MB-3079	4552	0	Living	train
+MB-3083	2467	1	Died of Disease	train
+MB-3085	6419	1	Died of Disease	train
+MB-3088	7805	0	Living	test
+MB-3092	4635	2	Died of Other Causes	test
+MB-3102	7861	0	Living	train
+MB-3103	874	1	Died of Disease	train
+MB-3104	2293	1	Died of Disease	train
+MB-3105	7678	0	Living	test
+MB-3110	3065	0	Living	test
+MB-3121	3996	2	Died of Other Causes	test
+MB-3122	7843	0	Living	test
+MB-3123	5094	0	Living	test
+MB-3153	6936	0	Living	test
+MB-3165	6732	0	Living	train
+MB-3167	4166	0	Living	train
+MB-3171	6684	1	Died of Disease	test
+MB-3181	5421	1	Died of Disease	train
+MB-3211	4427	0	Living	test
+MB-3218	7569	0	Living	test
+MB-3222	728	2	Died of Other Causes	test
+MB-3228	7668	0	Living	train
+MB-3235	7185	0	Living	test
+MB-3252	3033	0	Living	train
+MB-3253	1699	1	Died of Disease	train
+MB-3254	3770	0	Living	test
+MB-3266	1558	1	Died of Disease	test
+MB-3271	1992	2	Died of Other Causes	test
+MB-3272	689	1	Died of Disease	test
+MB-3275	1263	1	Died of Disease	test
+MB-3277	1002	1	Died of Disease	train
+MB-3292	6626	0	Living	train
+MB-3295	4824	2	Died of Other Causes	train
+MB-3297	7183	0	Living	test
+MB-3298	7381	0	Living	test
+MB-3300	7516	0	Living	test
+MB-3301	7569	0	Living	test
+MB-3303	7421	0	Living	test
+MB-3328	5816	2	Died of Other Causes	test
+MB-3329	1155	1	Died of Disease	train
+MB-3341	4526	1	Died of Disease	test
+MB-3344	7341	0	Living	test
+MB-3350	6931	2	Died of Other Causes	test
+MB-3351	7360	0	Living	train
+MB-3355	3316	0	Living	train
+MB-3357	1157	1	Died of Disease	test
+MB-3360	814	1	Died of Disease	train
+MB-3361	2075	1	Died of Disease	train
+MB-3363	330	1	Died of Disease	train
+MB-3365	7351	0	Living	test
+MB-3367	5460	0	Living	train
+MB-3371	7341	0	Living	train
+MB-3378	2663	2	Died of Other Causes	train
+MB-3379	3463	2	Died of Other Causes	test
+MB-3381	7200	0	Living	test
+MB-3382	4145	0	Living	test
+MB-3383	705	1	Died of Disease	train
+MB-3386	1692	1	Died of Disease	test
+MB-3388	6956	2	Died of Other Causes	train
+MB-3389	7324	0	Living	test
+MB-3395	7417	0	Living	train
+MB-3396	6899	0	Living	train
+MB-3402	1522	1	Died of Disease	train
+MB-3403	4209	0	Living	test
+MB-3412	6962	0	Living	test
+MB-3417	3148	0	Living	test
+MB-3429	7409	0	Living	test
+MB-3430	6687	2	Died of Other Causes	train
+MB-3435	773	1	Died of Disease	train
+MB-3436	1544	1	Died of Disease	train
+MB-3437	3309	0	Living	train
+MB-3439	5743	0	Living	test
+MB-3450	7317	0	Living	train
+MB-3452	3647	1	Died of Disease	test
+MB-3453	999	1	Died of Disease	test
+MB-3459	7345	0	Living	train
+MB-3462	7127	0	Living	train
+MB-3466	7124	2	Died of Other Causes	train
+MB-3467	1180	1	Died of Disease	test
+MB-3470	1902	1	Died of Disease	test
+MB-3476	4840	2	Died of Other Causes	test
+MB-3479	7049	0	Living	train
+MB-3487	7215	0	Living	train
+MB-3488	835	1	Died of Disease	test
+MB-3490	3116	1	Died of Disease	test
+MB-3492	3594	1	Died of Disease	train
+MB-3497	471	1	Died of Disease	test
+MB-3500	7281	0	Living	test
+MB-3502	6978	0	Living	train
+MB-3506	7328	0	Living	test
+MB-3510	1813	2	Died of Other Causes	test
+MB-3525	7202	0	Living	train
+MB-3526	2619	1	Died of Disease	test
+MB-3528	3458	0	Living	test
+MB-3530	3437	2	Died of Other Causes	test
+MB-3536	2624	1	Died of Disease	train
+MB-3545	7082	1	Died of Disease	test
+MB-3547	1004	2	Died of Other Causes	test
+MB-3548	7136	2	Died of Other Causes	test
+MB-3556	1157	1	Died of Disease	train
+MB-3567	7182	0	Living	test
+MB-3576	756	1	Died of Disease	test
+MB-3582	6979	2	Died of Other Causes	train
+MB-3600	6533	0	Living	test
+MB-3606	3366	0	Living	train
+MB-3614	7163	0	Living	train
+MB-3702	7013	0	Living	train
+MB-3706	1180	1	Died of Disease	test
+MB-3707	6961	1	Died of Disease	train
+MB-3711	6758	0	Living	test
+MB-3748	6938	0	Living	train
+MB-3752	2292	1	Died of Disease	test
+MB-3754	2821	1	Died of Disease	test
+MB-3781	6833	0	Living	train
+MB-3797	6948	0	Living	test
+MB-3823	6770	0	Living	test
+MB-3824	3848	1	Died of Disease	test
+MB-3838	4091	1	Died of Disease	test
+MB-3840	8740	0	Living	test
+MB-3842	6879	0	Living	test
+MB-3850	2200	0	Living	test
+MB-3852	6861	0	Living	train
+MB-3854	3019	0	Living	test
+MB-3865	6084	0	Living	test
+MB-3866	6861	0	Living	train
+MB-3871	5258	2	Died of Other Causes	test
+MB-3874	5673	0	Living	test
+MB-3978	3069	1	Died of Disease	train
+MB-4000	854	2	Died of Other Causes	train
+MB-4001	1511	1	Died of Disease	test
+MB-4003	3242	1	Died of Disease	test
+MB-4004	7816	1	Died of Disease	test
+MB-4005	5731	0	Living	test
+MB-4008	1361	1	Died of Disease	test
+MB-4010	356	2	Died of Other Causes	train
+MB-4011	5878	0	Living	test
+MB-4012	8440	2	Died of Other Causes	train
+MB-4015	343	1	Died of Disease	test
+MB-4017	4238	2	Died of Other Causes	test
+MB-4018	3215	1	Died of Disease	test
+MB-4024	3776	0	Living	test
+MB-4033	462	1	Died of Disease	test
+MB-4046	9069	2	Died of Other Causes	test
+MB-4059	5233	2	Died of Other Causes	test
+MB-4079	10680	2	Died of Other Causes	train
+MB-4091	8561	2	Died of Other Causes	train
+MB-4098	5366	0	Living	test
+MB-4119	2063	1	Died of Disease	test
+MB-4120	6606	2	Died of Other Causes	train
+MB-4126	5319	2	Died of Other Causes	test
+MB-4127	7856	2	Died of Other Causes	test
+MB-4139	5033	2	Died of Other Causes	train
+MB-4140	3484	2	Died of Other Causes	train
+MB-4141	4498	1	Died of Disease	train
+MB-4145	6622	2	Died of Other Causes	train
+MB-4146	475	1	Died of Disease	train
+MB-4148	1918	1	Died of Disease	train
+MB-4154	1508	2	Died of Other Causes	train
+MB-4171	5620	1	Died of Disease	test
+MB-4173	4878	2	Died of Other Causes	test
+MB-4189	10808	2	Died of Other Causes	train
+MB-4212	10053	0	Living	train
+MB-4213	2571	1	Died of Disease	test
+MB-4222	1680	1	Died of Disease	train
+MB-4224	1993	1	Died of Disease	train
+MB-4230	3517	2	Died of Other Causes	test
+MB-4233	1106	1	Died of Disease	test
+MB-4234	7715	2	Died of Other Causes	test
+MB-4235	10216	1	Died of Disease	test
+MB-4236	6198	2	Died of Other Causes	test
+MB-4250	3048	2	Died of Other Causes	train
+MB-4254	5428	0	Living	test
+MB-4264	4966	2	Died of Other Causes	test
+MB-4266	1031	1	Died of Disease	train
+MB-4270	3003	1	Died of Disease	test
+MB-4274	1823	1	Died of Disease	test
+MB-4276	4022	1	Died of Disease	train
+MB-4278	7431	2	Died of Other Causes	train
+MB-4281	7912	2	Died of Other Causes	test
+MB-4282	1037	0	Living	test
+MB-4283	5320	0	Living	test
+MB-4289	2946	1	Died of Disease	train
+MB-4292	10212	2	Died of Other Causes	train
+MB-4293	6669	2	Died of Other Causes	test
+MB-4298	1676	1	Died of Disease	test
+MB-4300	5752	0	Living	test
+MB-4303	2709	2	Died of Other Causes	test
+MB-4306	7141	2	Died of Other Causes	train
+MB-4310	8081	2	Died of Other Causes	train
+MB-4313	9150	1	Died of Disease	test
+MB-4317	5413	0	Living	train
+MB-4318	521	2	Died of Other Causes	test
+MB-4322	5978	2	Died of Other Causes	train
+MB-4323	3853	2	Died of Other Causes	test
+MB-4324	2654	1	Died of Disease	train
+MB-4328	6063	2	Died of Other Causes	train
+MB-4329	5120	1	Died of Disease	test
+MB-4331	7168	2	Died of Other Causes	test
+MB-4332	9370	0	Living	test
+MB-4333	6328	2	Died of Other Causes	test
+MB-4339	5282	1	Died of Disease	train
+MB-4341	1025	1	Died of Disease	test
+MB-4342	7083	2	Died of Other Causes	test
+MB-4343	6043	2	Died of Other Causes	test
+MB-4348	6883	1	Died of Disease	test
+MB-4350	945	1	Died of Disease	train
+MB-4351	2073	1	Died of Disease	test
+MB-4353	3911	1	Died of Disease	test
+MB-4354	467	1	Died of Disease	train
+MB-4357	3470	1	Died of Disease	train
+MB-4360	361	1	Died of Disease	test
+MB-4362	8132	0	Living	test
+MB-4368	3635	1	Died of Disease	test
+MB-4374	1295	2	Died of Other Causes	test
+MB-4375	8860	0	Living	test
+MB-4381	1870	1	Died of Disease	test
+MB-4390	5000	2	Died of Other Causes	test
+MB-4395	4248	1	Died of Disease	test
+MB-4407	2536	1	Died of Disease	train
+MB-4408	6285	2	Died of Other Causes	train
+MB-4416	7351	1	Died of Disease	test
+MB-4417	508	2	Died of Other Causes	train
+MB-4418	9361	0	Living	test
+MB-4421	8056	2	Died of Other Causes	test
+MB-4426	5200	2	Died of Other Causes	test
+MB-4434	4506	1	Died of Disease	train
+MB-4442	9033	0	Living	test
+MB-4484	1591	1	Died of Disease	train
+MB-4529	3848	2	Died of Other Causes	train
+MB-4548	9823	0	Living	test
+MB-4557	8514	0	Living	test
+MB-4564	6403	2	Died of Other Causes	train
+MB-4578	6004	2	Died of Other Causes	train
+MB-4591	1252	2	Died of Other Causes	test
+MB-4593	4267	0	Living	test
+MB-4598	3632	1	Died of Disease	test
+MB-4599	5817	0	Living	test
+MB-4601	1712	1	Died of Disease	train
+MB-4602	3736	1	Died of Disease	test
+MB-4603	7279	0	Living	train
+MB-4607	3704	0	Living	test
+MB-4616	2742	1	Died of Disease	test
+MB-4618	8136	0	Living	test
+MB-4621	8272	0	Living	test
+MB-4622	8606	2	Died of Other Causes	train
+MB-4623	8886	2	Died of Other Causes	train
+MB-4626	4351	1	Died of Disease	test
+MB-4627	5679	2	Died of Other Causes	train
+MB-4630	2916	2	Died of Other Causes	train
+MB-4633	9682	0	Living	train
+MB-4634	3335	1	Died of Disease	test
+MB-4639	3621	1	Died of Disease	train
+MB-4640	6104	0	Living	train
+MB-4641	4520	2	Died of Other Causes	train
+MB-4642	8693	1	Died of Disease	train
+MB-4643	1261	1	Died of Disease	train
+MB-4644	2738	1	Died of Disease	test
+MB-4648	5128	2	Died of Other Causes	test
+MB-4649	512	2	Died of Other Causes	test
+MB-4651	922	1	Died of Disease	test
+MB-4653	1464	1	Died of Disease	train
+MB-4654	1956	2	Died of Other Causes	test
+MB-4655	3012	2	Died of Other Causes	test
+MB-4660	1213	1	Died of Disease	test
+MB-4661	7127	0	Living	train
+MB-4663	7282	0	Living	test
+MB-4665	7917	0	Living	train
+MB-4666	3394	1	Died of Disease	test
+MB-4667	8986	2	Died of Other Causes	train
+MB-4669	3635	2	Died of Other Causes	test
+MB-4670	2063	1	Died of Disease	test
+MB-4671	1055	1	Died of Disease	test
+MB-4672	6723	2	Died of Other Causes	test
+MB-4673	2647	1	Died of Disease	test
+MB-4674	2466	1	Died of Disease	test
+MB-4675	8004	0	Living	test
+MB-4679	8905	2	Died of Other Causes	test
+MB-4681	7662	1	Died of Disease	test
+MB-4682	4245	1	Died of Disease	test
+MB-4685	1317	2	Died of Other Causes	train
+MB-4686	1473	1	Died of Disease	train
+MB-4687	2254	2	Died of Other Causes	test
+MB-4688	2595	1	Died of Disease	test
+MB-4691	8598	1	Died of Disease	test
+MB-4692	3264	2	Died of Other Causes	train
+MB-4694	6034	0	Living	test
+MB-4695	648	2	Died of Other Causes	train
+MB-4696	7767	0	Living	train
+MB-4697	3590	2	Died of Other Causes	train
+MB-4698	5193	1	Died of Disease	test
+MB-4701	3880	0	Living	test
+MB-4702	9155	0	Living	test
+MB-4704	1947	1	Died of Disease	test
+MB-4705	6484	2	Died of Other Causes	test
+MB-4706	1693	2	Died of Other Causes	train
+MB-4707	6731	0	Living	train
+MB-4708	6934	2	Died of Other Causes	test
+MB-4709	4466	0	Living	train
+MB-4710	1754	0	Living	test
+MB-4711	957	1	Died of Disease	test
+MB-4712	7593	2	Died of Other Causes	test
+MB-4714	2545	2	Died of Other Causes	train
+MB-4715	1072	1	Died of Disease	test
+MB-4716	2316	1	Died of Disease	train
+MB-4717	1305	1	Died of Disease	test
+MB-4718	6035	1	Died of Disease	test
+MB-4719	2482	2	Died of Other Causes	test
+MB-4721	722	1	Died of Disease	test
+MB-4722	2620	0	Living	test
+MB-4723	6450	0	Living	train
+MB-4724	4444	0	Living	test
+MB-4725	3005	1	Died of Disease	test
+MB-4729	852	2	Died of Other Causes	test
+MB-4730	3995	2	Died of Other Causes	test
+MB-4731	1365	1	Died of Disease	test
+MB-4732	4560	0	Living	train
+MB-4733	600	1	Died of Disease	test
+MB-4735	9062	0	Living	test
+MB-4737	3718	0	Living	test
+MB-4738	5357	0	Living	test
+MB-4739	4919	2	Died of Other Causes	test
+MB-4741	1719	1	Died of Disease	train
+MB-4742	2529	2	Died of Other Causes	test
+MB-4743	7003	0	Living	train
+MB-4744	4655	1	Died of Disease	train
+MB-4745	1298	1	Died of Disease	train
+MB-4746	7438	0	Living	test
+MB-4749	1566	2	Died of Other Causes	train
+MB-4750	1148	1	Died of Disease	test
+MB-4752	3811	1	Died of Disease	test
+MB-4757	833	1	Died of Disease	train
+MB-4758	6449	0	Living	train
+MB-4760	3797	1	Died of Disease	train
+MB-4762	7671	0	Living	test
+MB-4763	3106	0	Living	test
+MB-4764	7470	0	Living	train
+MB-4767	1434	1	Died of Disease	test
+MB-4769	660	1	Died of Disease	train
+MB-4770	4627	2	Died of Other Causes	train
+MB-4771	9044	0	Living	test
+MB-4778	6272	2	Died of Other Causes	test
+MB-4779	3090	0	Living	test
+MB-4782	7639	0	Living	test
+MB-4784	4434	2	Died of Other Causes	test
+MB-4785	3702	1	Died of Disease	train
+MB-4787	2466	2	Died of Other Causes	train
+MB-4790	2144	1	Died of Disease	train
+MB-4791	5289	2	Died of Other Causes	test
+MB-4792	1236	1	Died of Disease	train
+MB-4793	2536	2	Died of Other Causes	test
+MB-4794	1384	2	Died of Other Causes	test
+MB-4796	3903	0	Living	test
+MB-4797	3023	2	Died of Other Causes	test
+MB-4798	7825	0	Living	train
+MB-4800	3375	1	Died of Disease	train
+MB-4801	3967	2	Died of Other Causes	train
+MB-4802	1335	1	Died of Disease	train
+MB-4805	3949	1	Died of Disease	train
+MB-4806	6139	2	Died of Other Causes	test
+MB-4809	8705	0	Living	test
+MB-4814	2235	1	Died of Disease	test
+MB-4818	2319	2	Died of Other Causes	test
+MB-4820	1743	1	Died of Disease	train
+MB-4822	2788	1	Died of Disease	train
+MB-4823	8590	2	Died of Other Causes	train
+MB-4825	6525	2	Died of Other Causes	test
+MB-4827	1390	2	Died of Other Causes	train
+MB-4828	1293	1	Died of Disease	train
+MB-4829	5363	2	Died of Other Causes	train
+MB-4832	4312	1	Died of Disease	train
+MB-4834	1100	1	Died of Disease	train
+MB-4836	713	1	Died of Disease	test
+MB-4838	6109	2	Died of Other Causes	test
+MB-4839	9110	0	Living	train
+MB-4843	8068	0	Living	test
+MB-4845	774	1	Died of Disease	test
+MB-4846	3092	1	Died of Disease	train
+MB-4849	1379	1	Died of Disease	train
+MB-4851	2746	1	Died of Disease	test
+MB-4853	8092	0	Living	train
+MB-4855	1261	2	Died of Other Causes	train
+MB-4858	3935	2	Died of Other Causes	test
+MB-4859	4801	2	Died of Other Causes	train
+MB-4860	7138	0	Living	test
+MB-4862	5699	0	Living	train
+MB-4865	6995	0	Living	test
+MB-4866	6825	0	Living	test
+MB-4867	6752	0	Living	test
+MB-4869	891	1	Died of Disease	test
+MB-4870	6970	0	Living	test
+MB-4871	1211	1	Died of Disease	train
+MB-4872	4780	0	Living	train
+MB-4873	3580	1	Died of Disease	test
+MB-4876	4582	1	Died of Disease	test
+MB-4878	683	1	Died of Disease	train
+MB-4879	2433	2	Died of Other Causes	train
+MB-4880	6419	0	Living	test
+MB-4881	8343	0	Living	test
+MB-4882	8097	2	Died of Other Causes	test
+MB-4883	8182	0	Living	test
+MB-4886	1465	1	Died of Disease	train
+MB-4887	1077	1	Died of Disease	train
+MB-4888	7014	0	Living	test
+MB-4893	5376	0	Living	train
+MB-4894	7071	0	Living	test
+MB-4896	1973	1	Died of Disease	train
+MB-4897	6007	0	Living	test
+MB-4898	3587	1	Died of Disease	test
+MB-4899	8390	0	Living	train
+MB-4900	6834	0	Living	test
+MB-4904	3932	2	Died of Other Causes	test
+MB-4906	7116	2	Died of Other Causes	test
+MB-4908	1457	1	Died of Disease	test
+MB-4911	956	1	Died of Disease	test
+MB-4912	1521	1	Died of Disease	train
+MB-4925	3127	2	Died of Other Causes	test
+MB-4928	6695	0	Living	test
+MB-4929	1217	1	Died of Disease	train
+MB-4930	1778	0	Living	train
+MB-4931	924	1	Died of Disease	train
+MB-4933	8304	0	Living	test
+MB-4934	2137	0	Living	test
+MB-4935	5909	0	Living	test
+MB-4937	2350	1	Died of Disease	train
+MB-4938	2148	1	Died of Disease	train
+MB-4941	1784	1	Died of Disease	test
+MB-4942	3777	2	Died of Other Causes	test
+MB-4944	7220	2	Died of Other Causes	train
+MB-4945	612	1	Died of Disease	train
+MB-4949	6602	0	Living	test
+MB-4950	4582	1	Died of Disease	test
+MB-4952	5611	0	Living	train
+MB-4956	2108	1	Died of Disease	train
+MB-4957	6014	1	Died of Disease	train
+MB-4959	3577	1	Died of Disease	train
+MB-4961	6678	0	Living	train
+MB-4962	6020	1	Died of Disease	test
+MB-4965	8021	2	Died of Other Causes	test
+MB-4966	1500	1	Died of Disease	test
+MB-4967	3977	2	Died of Other Causes	train
+MB-4968	2394	0	Living	test
+MB-4969	6028	2	Died of Other Causes	train
+MB-4970	2702	1	Died of Disease	train
+MB-4974	5358	2	Died of Other Causes	test
+MB-4976	6819	2	Died of Other Causes	test
+MB-4977	6595	1	Died of Disease	test
+MB-4978	6038	0	Living	test
+MB-4981	5500	1	Died of Disease	test
+MB-4982	583	1	Died of Disease	train
+MB-4986	2428	1	Died of Disease	train
+MB-4987	6748	2	Died of Other Causes	test
+MB-4991	3860	0	Living	train
+MB-4992	5032	0	Living	test
+MB-4993	2289	1	Died of Disease	test
+MB-4994	5298	2	Died of Other Causes	test
+MB-4996	3035	2	Died of Other Causes	test
+MB-4998	1995	1	Died of Disease	train
+MB-4999	5718	0	Living	train
+MB-5001	2489	1	Died of Disease	test
+MB-5004	6595	0	Living	test
+MB-5008	6795	0	Living	train
+MB-5011	2449	2	Died of Other Causes	train
+MB-5013	7644	2	Died of Other Causes	test
+MB-5014	6492	0	Living	test
+MB-5015	7677	2	Died of Other Causes	train
+MB-5017	4410	0	Living	train
+MB-5018	3304	2	Died of Other Causes	train
+MB-5019	1150	1	Died of Disease	train
+MB-5020	2581	1	Died of Disease	train
+MB-5022	3608	1	Died of Disease	test
+MB-5027	5777	0	Living	test
+MB-5033	1604	1	Died of Disease	train
+MB-5035	6487	1	Died of Disease	train
+MB-5039	1890	1	Died of Disease	test
+MB-5040	2409	2	Died of Other Causes	test
+MB-5041	5292	0	Living	test
+MB-5043	3906	1	Died of Disease	train
+MB-5044	4242	0	Living	train
+MB-5045	5121	2	Died of Other Causes	train
+MB-5048	2628	1	Died of Disease	train
+MB-5049	7768	0	Living	train
+MB-5050	5609	0	Living	train
+MB-5052	1051	2	Died of Other Causes	train
+MB-5053	4582	2	Died of Other Causes	test
+MB-5054	5711	0	Living	train
+MB-5057	1714	1	Died of Disease	test
+MB-5058	5438	1	Died of Disease	test
+MB-5059	7839	0	Living	train
+MB-5060	4567	2	Died of Other Causes	train
+MB-5061	1199	0	Living	train
+MB-5062	5120	0	Living	train
+MB-5063	6547	0	Living	test
+MB-5064	2784	0	Living	train
+MB-5065	5623	0	Living	test
+MB-5066	2881	0	Living	train
+MB-5068	5553	0	Living	test
+MB-5070	6508	0	Living	train
+MB-5072	1528	1	Died of Disease	train
+MB-5073	5908	2	Died of Other Causes	train
+MB-5074	6743	2	Died of Other Causes	train
+MB-5076	817	1	Died of Disease	test
+MB-5078	2650	1	Died of Disease	test
+MB-5079	6083	0	Living	test
+MB-5081	1764	1	Died of Disease	train
+MB-5084	6028	1	Died of Disease	test
+MB-5086	2563	2	Died of Other Causes	test
+MB-5088	6066	2	Died of Other Causes	train
+MB-5092	5312	2	Died of Other Causes	train
+MB-5093	4334	2	Died of Other Causes	train
+MB-5097	1874	0	Living	train
+MB-5098	5672	2	Died of Other Causes	test
+MB-5100	605	1	Died of Disease	test
+MB-5101	1044	1	Died of Disease	test
+MB-5102	924	1	Died of Disease	test
+MB-5104	3727	1	Died of Disease	test
+MB-5105	6220	1	Died of Disease	train
+MB-5106	5811	1	Died of Disease	train
+MB-5107	2514	1	Died of Disease	train
+MB-5109	3805	2	Died of Other Causes	train
+MB-5110	666	1	Died of Disease	test
+MB-5113	5344	0	Living	test
+MB-5114	467	1	Died of Disease	test
+MB-5115	2355	0	Living	test
+MB-5116	2183	1	Died of Disease	train
+MB-5117	6367	0	Living	test
+MB-5118	6443	0	Living	train
+MB-5119	1818	0	Living	train
+MB-5120	845	1	Died of Disease	test
+MB-5121	3496	1	Died of Disease	test
+MB-5122	3825	2	Died of Other Causes	train
+MB-5123	2747	1	Died of Disease	test
+MB-5124	3779	1	Died of Disease	test
+MB-5126	830	1	Died of Disease	train
+MB-5127	5826	2	Died of Other Causes	test
+MB-5131	8037	0	Living	train
+MB-5134	5980	0	Living	train
+MB-5135	1137	1	Died of Disease	train
+MB-5136	5438	0	Living	test
+MB-5137	1316	0	Living	test
+MB-5138	1125	1	Died of Disease	test
+MB-5139	2737	2	Died of Other Causes	train
+MB-5140	4099	1	Died of Disease	train
+MB-5143	3893	2	Died of Other Causes	test
+MB-5144	6482	0	Living	train
+MB-5145	4845	1	Died of Disease	test
+MB-5147	616	0	Living	test
+MB-5148	7462	2	Died of Other Causes	test
+MB-5150	3372	1	Died of Disease	train
+MB-5152	3527	2	Died of Other Causes	test
+MB-5154	5198	0	Living	test
+MB-5155	7909	0	Living	train
+MB-5157	554	1	Died of Disease	test
+MB-5158	7429	1	Died of Disease	train
+MB-5160	2669	1	Died of Disease	train
+MB-5161	5335	0	Living	train
+MB-5162	5000	0	Living	test
+MB-5163	6457	2	Died of Other Causes	train
+MB-5164	2449	0	Living	test
+MB-5166	2456	1	Died of Disease	test
+MB-5167	6341	0	Living	train
+MB-5169	1581	1	Died of Disease	test
+MB-5171	5629	1	Died of Disease	train
+MB-5172	5607	0	Living	test
+MB-5173	673	1	Died of Disease	train
+MB-5174	4601	2	Died of Other Causes	train
+MB-5175	5924	2	Died of Other Causes	train
+MB-5176	3427	2	Died of Other Causes	test
+MB-5177	1985	2	Died of Other Causes	train
+MB-5178	5609	0	Living	train
+MB-5179	7504	2	Died of Other Causes	test
+MB-5182	4085	2	Died of Other Causes	test
+MB-5183	3606	2	Died of Other Causes	train
+MB-5184	2718	2	Died of Other Causes	train
+MB-5185	2357	1	Died of Disease	test
+MB-5186	6185	0	Living	test
+MB-5188	590	1	Died of Disease	train
+MB-5189	3407	1	Died of Disease	train
+MB-5190	7381	0	Living	train
+MB-5191	4326	2	Died of Other Causes	test
+MB-5193	1651	2	Died of Other Causes	test
+MB-5195	5990	1	Died of Disease	test
+MB-5196	2861	1	Died of Disease	train
+MB-5197	6811	1	Died of Disease	test
+MB-5199	6219	0	Living	train
+MB-5200	1591	1	Died of Disease	train
+MB-5201	2950	2	Died of Other Causes	test
+MB-5204	5840	2	Died of Other Causes	test
+MB-5205	5638	0	Living	test
+MB-5206	6260	0	Living	train
+MB-5208	4622	0	Living	train
+MB-5209	5328	2	Died of Other Causes	test
+MB-5211	7541	2	Died of Other Causes	test
+MB-5212	5450	2	Died of Other Causes	train
+MB-5213	1320	1	Died of Disease	test
+MB-5214	3267	2	Died of Other Causes	train
+MB-5215	3612	1	Died of Disease	test
+MB-5218	7758	0	Living	test
+MB-5219	7695	0	Living	train
+MB-5221	3995	2	Died of Other Causes	test
+MB-5222	3403	2	Died of Other Causes	test
+MB-5223	4402	1	Died of Disease	test
+MB-5224	3024	1	Died of Disease	test
+MB-5225	1316	1	Died of Disease	train
+MB-5226	6104	0	Living	test
+MB-5227	5691	2	Died of Other Causes	test
+MB-5228	5499	2	Died of Other Causes	test
+MB-5229	1033	1	Died of Disease	test
+MB-5230	5370	0	Living	test
+MB-5231	504	1	Died of Disease	test
+MB-5232	6426	2	Died of Other Causes	train
+MB-5233	6360	2	Died of Other Causes	train
+MB-5235	6213	1	Died of Disease	test
+MB-5236	5071	0	Living	test
+MB-5238	1342	1	Died of Disease	train
+MB-5239	5846	0	Living	train
+MB-5240	3159	2	Died of Other Causes	test
+MB-5243	1169	2	Died of Other Causes	train
+MB-5244	6599	1	Died of Disease	test
+MB-5251	3422	1	Died of Disease	train
+MB-5253	3105	2	Died of Other Causes	train
+MB-5255	1630	0	Living	test
+MB-5256	3288	1	Died of Disease	train
+MB-5258	3075	2	Died of Other Causes	test
+MB-5259	1404	1	Died of Disease	test
+MB-5260	6149	2	Died of Other Causes	test
+MB-5261	3544	2	Died of Other Causes	test
+MB-5264	6064	0	Living	train
+MB-5266	2544	2	Died of Other Causes	train
+MB-5267	2162	1	Died of Disease	train
+MB-5268	5664	0	Living	test
+MB-5270	5715	2	Died of Other Causes	test
+MB-5271	5097	0	Living	train
+MB-5272	6144	1	Died of Disease	test
+MB-5273	1852	1	Died of Disease	test
+MB-5275	2311	2	Died of Other Causes	train
+MB-5277	6727	1	Died of Disease	test
+MB-5278	3041	1	Died of Disease	test
+MB-5279	2092	2	Died of Other Causes	train
+MB-5280	2369	1	Died of Disease	test
+MB-5281	2413	0	Living	test
+MB-5284	1988	2	Died of Other Causes	test
+MB-5287	3773	2	Died of Other Causes	test
+MB-5288	3907	2	Died of Other Causes	test
+MB-5289	2647	2	Died of Other Causes	train
+MB-5290	1123	2	Died of Other Causes	test
+MB-5291	4672	0	Living	train
+MB-5292	1473	1	Died of Disease	test
+MB-5293	6358	1	Died of Disease	train
+MB-5294	5962	0	Living	train
+MB-5295	2303	2	Died of Other Causes	test
+MB-5296	419	1	Died of Disease	test
+MB-5298	2583	1	Died of Disease	test
+MB-5299	508	1	Died of Disease	test
+MB-5300	5786	0	Living	test
+MB-5301	7340	0	Living	train
+MB-5302	5815	0	Living	test
+MB-5305	4547	1	Died of Disease	test
+MB-5306	4860	0	Living	test
+MB-5308	3188	1	Died of Disease	test
+MB-5310	4664	2	Died of Other Causes	test
+MB-5311	1754	1	Died of Disease	train
+MB-5312	1153	1	Died of Disease	train
+MB-5313	1416	1	Died of Disease	test
+MB-5315	1309	1	Died of Disease	test
+MB-5317	1632	1	Died of Disease	train
+MB-5318	431	1	Died of Disease	train
+MB-5322	3112	1	Died of Disease	train
+MB-5323	6879	0	Living	train
+MB-5324	5784	2	Died of Other Causes	test
+MB-5325	6214	0	Living	train
+MB-5326	2927	2	Died of Other Causes	test
+MB-5327	4976	0	Living	test
+MB-5328	432	2	Died of Other Causes	train
+MB-5329	1391	1	Died of Disease	test
+MB-5330	3485	2	Died of Other Causes	test
+MB-5331	3777	1	Died of Disease	test
+MB-5332	3007	1	Died of Disease	train
+MB-5334	2598	2	Died of Other Causes	test
+MB-5335	767	1	Died of Disease	test
+MB-5338	1572	1	Died of Disease	test
+MB-5339	5960	0	Living	test
+MB-5341	7632	0	Living	test
+MB-5345	6573	1	Died of Disease	test
+MB-5346	5912	0	Living	test
+MB-5347	6448	1	Died of Disease	train
+MB-5348	5162	0	Living	train
+MB-5349	5812	1	Died of Disease	train
+MB-5350	1632	1	Died of Disease	train
+MB-5351	6149	0	Living	train
+MB-5358	877	1	Died of Disease	train
+MB-5360	4903	2	Died of Other Causes	train
+MB-5361	467	1	Died of Disease	train
+MB-5364	3827	1	Died of Disease	test
+MB-5365	700	1	Died of Disease	train
+MB-5366	7399	0	Living	train
+MB-5368	3047	2	Died of Other Causes	train
+MB-5369	1195	1	Died of Disease	train
+MB-5370	3630	2	Died of Other Causes	test
+MB-5373	77	0	Living	test
+MB-5377	3103	1	Died of Disease	test
+MB-5378	373	1	Died of Disease	test
+MB-5381	6141	1	Died of Disease	test
+MB-5382	3536	2	Died of Other Causes	train
+MB-5383	3458	1	Died of Disease	test
+MB-5384	2165	2	Died of Other Causes	train
+MB-5385	4527	2	Died of Other Causes	test
+MB-5386	5848	0	Living	test
+MB-5387	1388	1	Died of Disease	train
+MB-5388	4471	2	Died of Other Causes	test
+MB-5389	3796	2	Died of Other Causes	test
+MB-5390	941	1	Died of Disease	train
+MB-5392	7220	0	Living	train
+MB-5393	4686	2	Died of Other Causes	test
+MB-5394	5891	0	Living	test
+MB-5395	5026	0	Living	test
+MB-5396	5041	0	Living	test
+MB-5397	5260	1	Died of Disease	train
+MB-5398	6481	0	Living	train
+MB-5399	3249	1	Died of Disease	train
+MB-5401	2135	0	Living	test
+MB-5402	3279	2	Died of Other Causes	train
+MB-5403	2913	2	Died of Other Causes	train
+MB-5404	2274	1	Died of Disease	test
+MB-5405	3578	0	Living	test
+MB-5406	2964	1	Died of Disease	train
+MB-5407	6256	0	Living	test
+MB-5408	3085	0	Living	test
+MB-5409	6029	0	Living	train
+MB-5410	6170	0	Living	test
+MB-5411	791	1	Died of Disease	test
+MB-5412	6701	0	Living	test
+MB-5413	4802	2	Died of Other Causes	train
+MB-5414	4278	2	Died of Other Causes	test
+MB-5417	3258	0	Living	train
+MB-5418	6304	0	Living	test
+MB-5420	5900	0	Living	train
+MB-5421	5920	0	Living	train
+MB-5422	1401	1	Died of Disease	test
+MB-5424	2541	1	Died of Disease	test
+MB-5425	1505	1	Died of Disease	test
+MB-5426	1053	1	Died of Disease	test
+MB-5427	4738	2	Died of Other Causes	test
+MB-5428	4578	0	Living	test
+MB-5429	934	2	Died of Other Causes	train
+MB-5431	482	1	Died of Disease	test
+MB-5432	2997	2	Died of Other Causes	train
+MB-5433	5366	1	Died of Disease	train
+MB-5434	1374	1	Died of Disease	test
+MB-5435	3164	2	Died of Other Causes	train
+MB-5440	5983	0	Living	test
+MB-5441	295	2	Died of Other Causes	test
+MB-5442	6262	0	Living	test
+MB-5444	7316	0	Living	test
+MB-5446	4955	1	Died of Disease	train
+MB-5447	4530	1	Died of Disease	test
+MB-5450	5787	0	Living	train
+MB-5451	5778	0	Living	test
+MB-5452	491	2	Died of Other Causes	train
+MB-5453	1743	1	Died of Disease	test
+MB-5454	1541	1	Died of Disease	test
+MB-5455	1880	2	Died of Other Causes	test
+MB-5457	5007	1	Died of Disease	test
+MB-5458	5581	0	Living	train
+MB-5459	2763	1	Died of Disease	train
+MB-5460	6653	0	Living	test
+MB-5463	1768	2	Died of Other Causes	test
+MB-5464	3546	2	Died of Other Causes	test
+MB-5465	572	1	Died of Disease	test
+MB-5467	5663	0	Living	train
+MB-5468	3023	0	Living	test
+MB-5470	1280	1	Died of Disease	train
+MB-5471	5652	0	Living	test
+MB-5472	595	1	Died of Disease	train
+MB-5473	3831	2	Died of Other Causes	train
+MB-5474	6898	0	Living	train
+MB-5475	77	2	Died of Other Causes	test
+MB-5477	3361	0	Living	train
+MB-5478	1043	2	Died of Other Causes	train
+MB-5481	1410	1	Died of Disease	test
+MB-5482	537	1	Died of Disease	test
+MB-5483	1291	1	Died of Disease	test
+MB-5484	7257	0	Living	test
+MB-5485	967	2	Died of Other Causes	test
+MB-5486	3752	1	Died of Disease	test
+MB-5489	6602	0	Living	test
+MB-5490	1558	1	Died of Disease	test
+MB-5491	2003	1	Died of Disease	test
+MB-5492	711	1	Died of Disease	train
+MB-5493	1741	1	Died of Disease	test
+MB-5495	6962	0	Living	train
+MB-5497	7227	0	Living	train
+MB-5498	6851	0	Living	train
+MB-5499	3765	0	Living	test
+MB-5502	5773	0	Living	train
+MB-5505	5008	1	Died of Disease	test
+MB-5510	3137	1	Died of Disease	test
+MB-5511	4837	0	Living	test
+MB-5513	1114	1	Died of Disease	test
+MB-5514	5565	0	Living	test
+MB-5518	939	1	Died of Disease	train
+MB-5519	5149	2	Died of Other Causes	train
+MB-5520	496	1	Died of Disease	train
+MB-5521	3797	0	Living	train
+MB-5525	60	0	Living	train
+MB-5526	4596	0	Living	test
+MB-5527	5494	0	Living	train
+MB-5529	450	1	Died of Disease	test
+MB-5530	5657	0	Living	test
+MB-5531	5598	0	Living	test
+MB-5532	2430	1	Died of Disease	train
+MB-5533	4808	0	Living	test
+MB-5534	2407	1	Died of Disease	test
+MB-5535	3655	1	Died of Disease	train
+MB-5540	1473	1	Died of Disease	train
+MB-5541	6090	0	Living	test
+MB-5543	1047	2	Died of Other Causes	train
+MB-5546	7098	0	Living	test
+MB-5547	2999	0	Living	train
+MB-5548	770	0	Living	test
+MB-5549	2706	1	Died of Disease	train
+MB-5550	5212	2	Died of Other Causes	train
+MB-5551	5545	0	Living	train
+MB-5552	1055	1	Died of Disease	train
+MB-5553	4701	2	Died of Other Causes	train
+MB-5554	6993	0	Living	test
+MB-5556	6858	0	Living	train
+MB-5558	761	0	Living	train
+MB-5559	573	1	Died of Disease	test
+MB-5560	5678	0	Living	test
+MB-5562	3133	2	Died of Other Causes	test
+MB-5563	3580	2	Died of Other Causes	train
+MB-5565	5906	2	Died of Other Causes	test
+MB-5566	7132	0	Living	test
+MB-5567	5433	2	Died of Other Causes	test
+MB-5571	4682	1	Died of Disease	test
+MB-5572	5435	0	Living	train
+MB-5575	3580	2	Died of Other Causes	test
+MB-5576	5903	0	Living	test
+MB-5577	1685	1	Died of Disease	train
+MB-5579	2756	1	Died of Disease	test
+MB-5580	2179	2	Died of Other Causes	train
+MB-5582	6765	0	Living	train
+MB-5583	3388	0	Living	test
+MB-5584	2772	2	Died of Other Causes	test
+MB-5585	1640	1	Died of Disease	train
+MB-5588	2468	1	Died of Disease	train
+MB-5589	5633	0	Living	test
+MB-5590	542	0	Living	train
+MB-5591	4727	2	Died of Other Causes	train
+MB-5592	801	2	Died of Other Causes	test
+MB-5593	2814	1	Died of Disease	test
+MB-5596	5110	1	Died of Disease	train
+MB-5597	996	2	Died of Other Causes	test
+MB-5599	6842	0	Living	test
+MB-5601	6536	2	Died of Other Causes	train
+MB-5602	6829	0	Living	train
+MB-5603	5222	2	Died of Other Causes	train
+MB-5604	4431	0	Living	test
+MB-5605	3764	0	Living	train
+MB-5613	6462	2	Died of Other Causes	train
+MB-5614	3543	1	Died of Disease	train
+MB-5616	5496	0	Living	test
+MB-5617	3901	2	Died of Other Causes	train
+MB-5620	1280	1	Died of Disease	test
+MB-5622	5566	0	Living	train
+MB-5623	4193	2	Died of Other Causes	test
+MB-5624	4138	0	Living	test
+MB-5625	982	1	Died of Disease	train
+MB-5626	2524	0	Living	test
+MB-5628	1296	1	Died of Disease	test
+MB-5629	3158	2	Died of Other Causes	test
+MB-5632	1161	1	Died of Disease	train
+MB-5633	1066	1	Died of Disease	train
+MB-5634	1914	1	Died of Disease	test
+MB-5635	641	1	Died of Disease	test
+MB-5636	3295	2	Died of Other Causes	test
+MB-5638	5955	2	Died of Other Causes	test
+MB-5640	5243	0	Living	train
+MB-5641	5534	0	Living	train
+MB-5642	4771	2	Died of Other Causes	test
+MB-5645	676	2	Died of Other Causes	test
+MB-5646	5084	2	Died of Other Causes	test
+MB-5647	937	2	Died of Other Causes	test
+MB-5648	6084	2	Died of Other Causes	test
+MB-5651	639	1	Died of Disease	train
+MB-5652	3185	2	Died of Other Causes	test
+MB-5653	5921	0	Living	test
+MB-5654	5265	2	Died of Other Causes	test
+MB-5655	5836	0	Living	test
+MB-5656	3846	2	Died of Other Causes	test
+MB-6001	4117	2	Died of Other Causes	train
+MB-6006	1934	2	Died of Other Causes	test
+MB-6007	2146	2	Died of Other Causes	train
+MB-6008	2102	1	Died of Disease	train
+MB-6010	6640	0	Living	train
+MB-6011	6424	1	Died of Disease	train
+MB-6012	4395	2	Died of Other Causes	train
+MB-6014	5840	2	Died of Other Causes	train
+MB-6016	4367	2	Died of Other Causes	train
+MB-6017	2157	2	Died of Other Causes	train
+MB-6018	4356	1	Died of Disease	train
+MB-6019	411	2	Died of Other Causes	test
+MB-6020	1468	2	Died of Other Causes	train
+MB-6021	9166	0	Living	test
+MB-6022	1584	1	Died of Disease	test
+MB-6023	7089	0	Living	train
+MB-6024	7676	1	Died of Disease	test
+MB-6026	1513	2	Died of Other Causes	test
+MB-6029	8470	1	Died of Disease	train
+MB-6030	4423	2	Died of Other Causes	train
+MB-6036	8761	0	Living	train
+MB-6039	2225	2	Died of Other Causes	train
+MB-6042	8016	0	Living	train
+MB-6044	6667	2	Died of Other Causes	train
+MB-6047	1152	1	Died of Disease	test
+MB-6048	5118	2	Died of Other Causes	train
+MB-6049	8040	0	Living	train
+MB-6050	5848	0	Living	test
+MB-6051	5685	1	Died of Disease	train
+MB-6052	7770	0	Living	test
+MB-6053	7631	0	Living	test
+MB-6055	6099	0	Living	test
+MB-6058	689	1	Died of Disease	test
+MB-6059	8473	0	Living	test
+MB-6060	1157	2	Died of Other Causes	test
+MB-6062	8592	0	Living	train
+MB-6063	474	1	Died of Disease	test
+MB-6065	5737	2	Died of Other Causes	train
+MB-6068	5556	2	Died of Other Causes	train
+MB-6069	7854	2	Died of Other Causes	train
+MB-6071	1746	1	Died of Disease	test
+MB-6075	5548	1	Died of Disease	train
+MB-6077	5181	2	Died of Other Causes	test
+MB-6079	7277	1	Died of Disease	train
+MB-6080	1646	1	Died of Disease	train
+MB-6082	3119	1	Died of Disease	train
+MB-6083	4991	2	Died of Other Causes	test
+MB-6085	727	0	Living	test
+MB-6092	69	2	Died of Other Causes	test
+MB-6097	4859	2	Died of Other Causes	train
+MB-6098	323	1	Died of Disease	test
+MB-6100	306	1	Died of Disease	test
+MB-6101	2358	2	Died of Other Causes	test
+MB-6103	7284	0	Living	test
+MB-6105	5848	2	Died of Other Causes	train
+MB-6107	3753	2	Died of Other Causes	test
+MB-6108	5902	0	Living	train
+MB-6113	3790	1	Died of Disease	test
+MB-6114	2033	0	Living	test
+MB-6116	5877	0	Living	train
+MB-6118	8051	0	Living	train
+MB-6122	7917	0	Living	test
+MB-6124	3518	2	Died of Other Causes	test
+MB-6125	4683	2	Died of Other Causes	train
+MB-6131	7840	0	Living	train
+MB-6133	1880	1	Died of Disease	test
+MB-6135	2391	2	Died of Other Causes	test
+MB-6138	780	1	Died of Disease	test
+MB-6141	2399	2	Died of Other Causes	train
+MB-6143	7777	0	Living	train
+MB-6144	7757	0	Living	test
+MB-6145	1044	1	Died of Disease	test
+MB-6146	2726	1	Died of Disease	train
+MB-6147	7244	2	Died of Other Causes	train
+MB-6149	2280	2	Died of Other Causes	train
+MB-6150	2363	2	Died of Other Causes	train
+MB-6152	6965	0	Living	test
+MB-6154	5942	0	Living	test
+MB-6156	1793	1	Died of Disease	test
+MB-6157	482	1	Died of Disease	train
+MB-6160	7527	0	Living	test
+MB-6163	2698	2	Died of Other Causes	train
+MB-6164	6265	0	Living	train
+MB-6167	3736	2	Died of Other Causes	train
+MB-6168	6868	2	Died of Other Causes	train
+MB-6169	2578	2	Died of Other Causes	test
+MB-6171	6703	0	Living	test
+MB-6178	1008	1	Died of Disease	test
+MB-6179	1779	1	Died of Disease	train
+MB-6181	1671	2	Died of Other Causes	test
+MB-6182	6353	0	Living	test
+MB-6183	2408	2	Died of Other Causes	test
+MB-6184	5650	1	Died of Disease	test
+MB-6185	6017	2	Died of Other Causes	test
+MB-6187	1149	2	Died of Other Causes	train
+MB-6188	723	0	Living	test
+MB-6189	7309	0	Living	train
+MB-6190	749	2	Died of Other Causes	test
+MB-6192	1297	2	Died of Other Causes	train
+MB-6194	1596	1	Died of Disease	train
+MB-6195	6153	0	Living	test
+MB-6200	914	1	Died of Disease	test
+MB-6201	6776	2	Died of Other Causes	test
+MB-6204	1727	2	Died of Other Causes	test
+MB-6206	5073	2	Died of Other Causes	train
+MB-6207	3599	2	Died of Other Causes	train
+MB-6208	6731	0	Living	test
+MB-6211	1287	2	Died of Other Causes	test
+MB-6212	6823	0	Living	test
+MB-6213	6193	2	Died of Other Causes	test
+MB-6214	5310	2	Died of Other Causes	test
+MB-6217	6436	2	Died of Other Causes	train
+MB-6218	4496	1	Died of Disease	test
+MB-6223	6753	0	Living	test
+MB-6224	1079	1	Died of Disease	test
+MB-6225	3586	0	Living	test
+MB-6226	1076	2	Died of Other Causes	test
+MB-6228	6089	0	Living	test
+MB-6229	3	1	Died of Disease	test
+MB-6230	2276	1	Died of Disease	test
+MB-6231	2208	2	Died of Other Causes	test
+MB-6232	2586	2	Died of Other Causes	test
+MB-6233	6121	0	Living	test
+MB-6234	6492	0	Living	test
+MB-6237	3201	2	Died of Other Causes	train
+MB-6238	5263	1	Died of Disease	test
+MB-6239	6096	0	Living	test
+MB-6242	5034	0	Living	test
+MB-6245	5405	0	Living	test
+MB-6246	1609	2	Died of Other Causes	train
+MB-6248	5563	0	Living	test
+MB-6251	447	1	Died of Disease	test
+MB-6253	5914	0	Living	test
+MB-6254	1853	1	Died of Disease	test
+MB-6256	3889	2	Died of Other Causes	test
+MB-6257	2769	0	Living	test
+MB-6263	2308	0	Living	test
+MB-6271	4799	0	Living	train
+MB-6272	681	1	Died of Disease	test
+MB-6273	5764	0	Living	train
+MB-6280	847	1	Died of Disease	train
+MB-6281	106	2	Died of Other Causes	test
+MB-6283	2811	2	Died of Other Causes	test
+MB-6284	2687	2	Died of Other Causes	train
+MB-6286	1507	2	Died of Other Causes	test
+MB-6287	1071	1	Died of Disease	train
+MB-6288	3052	1	Died of Disease	test
+MB-6297	5199	0	Living	test
+MB-6300	1942	2	Died of Other Causes	test
+MB-6302	3830	2	Died of Other Causes	train
+MB-6305	2724	1	Died of Disease	train
+MB-6306	1965	2	Died of Other Causes	test
+MB-6308	4623	2	Died of Other Causes	test
+MB-6312	4952	0	Living	train
+MB-6314	4102	0	Living	test
+MB-6317	889	2	Died of Other Causes	test
+MB-6318	3323	2	Died of Other Causes	test
+MB-6319	4707	0	Living	test
+MB-6322	2445	2	Died of Other Causes	test
+MB-6327	555	1	Died of Disease	train
+MB-6328	3854	0	Living	test
+MB-6329	2480	2	Died of Other Causes	train
+MB-6330	4270	0	Living	test
+MB-6334	3898	0	Living	test
+MB-6336	523	1	Died of Disease	train
+MB-6337	3373	2	Died of Other Causes	test
+MB-6344	4653	1	Died of Disease	test
+MB-6346	8566	0	Living	train
+MB-6358	1152	1	Died of Disease	train
+MB-6359	2587	1	Died of Disease	train
+MB-6363	508	1	Died of Disease	test
+MB-7000	2963	0	Living	test
+MB-7001	3125	0	Living	train
+MB-7002	1762	0	Living	train
+MB-7003	2776	2	Died of Other Causes	test
+MB-7004	1535	0	Living	train
+MB-7005	1379	0	Living	train
+MB-7006	3345	0	Living	test
+MB-7007	1783	0	Living	train
+MB-7008	1548	2	Died of Other Causes	test
+MB-7009	1666	1	Died of Disease	train
+MB-7010	2252	0	Living	test
+MB-7011	2132	2	Died of Other Causes	test
+MB-7012	603	1	Died of Disease	test
+MB-7013	1412	0	Living	test
+MB-7014	2090	0	Living	test
+MB-7015	2378	0	Living	train
+MB-7017	4118	0	Living	test
+MB-7018	2633	1	Died of Disease	test
+MB-7019	2456	2	Died of Other Causes	train
+MB-7020	2179	1	Died of Disease	train
+MB-7022	2601	0	Living	test
+MB-7023	851	1	Died of Disease	test
+MB-7024	2138	0	Living	test
+MB-7025	2441	0	Living	test
+MB-7026	3399	2	Died of Other Causes	train
+MB-7027	1124	1	Died of Disease	train
+MB-7028	2732	0	Living	train
+MB-7029	2339	0	Living	train
+MB-7030	953	2	Died of Other Causes	test
+MB-7031	2597	0	Living	test
+MB-7032	2174	0	Living	test
+MB-7034	2285	0	Living	test
+MB-7035	975	1	Died of Disease	test
+MB-7036	3664	0	Living	test
+MB-7037	2629	0	Living	test
+MB-7038	2465	0	Living	train
+MB-7039	1497	1	Died of Disease	test
+MB-7040	2185	0	Living	test
+MB-7041	3102	2	Died of Other Causes	test
+MB-7042	2693	0	Living	train
+MB-7043	2785	0	Living	test
+MB-7044	2642	0	Living	test
+MB-7045	2888	1	Died of Disease	test
+MB-7046	4454	2	Died of Other Causes	train
+MB-7048	2692	0	Living	test
+MB-7049	3104	0	Living	train
+MB-7050	1982	1	Died of Disease	train
+MB-7051	2614	1	Died of Disease	test
+MB-7052	3229	0	Living	train
+MB-7053	3716	0	Living	test
+MB-7054	926	1	Died of Disease	test
+MB-7055	277	1	Died of Disease	test
+MB-7056	3560	0	Living	test
+MB-7057	1333	1	Died of Disease	test
+MB-7058	3727	0	Living	train
+MB-7059	3631	0	Living	train
+MB-7060	3428	2	Died of Other Causes	train
+MB-7061	2944	2	Died of Other Causes	train
+MB-7062	2917	0	Living	train
+MB-7063	2635	0	Living	train
+MB-7065	3282	0	Living	test
+MB-7066	2731	0	Living	test
+MB-7067	3195	0	Living	test
+MB-7068	2996	0	Living	test
+MB-7069	3487	0	Living	train
+MB-7070	3288	0	Living	test
+MB-7071	3105	0	Living	train
+MB-7072	1592	1	Died of Disease	train
+MB-7073	4197	2	Died of Other Causes	test
+MB-7074	3291	0	Living	train
+MB-7075	3397	0	Living	test
+MB-7076	4341	2	Died of Other Causes	train
+MB-7077	3081	0	Living	train
+MB-7078	126	1	Died of Disease	test
+MB-7079	2771	0	Living	test
+MB-7080	2776	0	Living	test
+MB-7081	4267	0	Living	test
+MB-7082	2990	0	Living	test
+MB-7083	3209	0	Living	test
+MB-7084	3546	0	Living	test
+MB-7085	3350	0	Living	train
+MB-7086	3759	0	Living	train
+MB-7087	154	2	Died of Other Causes	test
+MB-7088	3759	0	Living	train
+MB-7089	3618	0	Living	test
+MB-7090	3340	0	Living	train
+MB-7091	3355	0	Living	train
+MB-7092	3724	0	Living	test
+MB-7093	3829	2	Died of Other Causes	test
+MB-7094	3449	0	Living	test
+MB-7095	3518	0	Living	test
+MB-7096	3773	0	Living	test
+MB-7097	1983	1	Died of Disease	test
+MB-7099	4965	2	Died of Other Causes	test
+MB-7100	4757	2	Died of Other Causes	test
+MB-7101	3781	0	Living	train
+MB-7102	3167	2	Died of Other Causes	train
+MB-7104	3737	2	Died of Other Causes	train
+MB-7106	1141	1	Died of Disease	test
+MB-7107	1732	1	Died of Disease	train
+MB-7109	3576	0	Living	train
+MB-7111	917	1	Died of Disease	test
+MB-7112	1968	1	Died of Disease	train
+MB-7113	4159	2	Died of Other Causes	train
+MB-7114	3751	0	Living	train
+MB-7115	4312	2	Died of Other Causes	train
+MB-7116	1015	1	Died of Disease	test
+MB-7118	4277	0	Living	test
+MB-7119	3906	0	Living	test
+MB-7121	2703	2	Died of Other Causes	test
+MB-7122	909	2	Died of Other Causes	test
+MB-7123	4189	0	Living	train
+MB-7124	4248	0	Living	test
+MB-7127	4118	0	Living	train
+MB-7128	1833	2	Died of Other Causes	test
+MB-7130	3133	1	Died of Disease	test
+MB-7131	4099	0	Living	test
+MB-7132	4004	0	Living	test
+MB-7133	725	1	Died of Disease	test
+MB-7135	813	1	Died of Disease	test
+MB-7137	5471	0	Living	test
+MB-7138	3742	2	Died of Other Causes	test
+MB-7140	2763	1	Died of Disease	test
+MB-7141	4216	0	Living	train
+MB-7142	5352	2	Died of Other Causes	test
+MB-7143	5671	0	Living	test
+MB-7144	3123	2	Died of Other Causes	test
+MB-7145	4209	0	Living	test
+MB-7147	5130	2	Died of Other Causes	test
+MB-7148	578	1	Died of Disease	test
+MB-7149	1358	2	Died of Other Causes	train
+MB-7150	3924	0	Living	train
+MB-7151	4395	0	Living	train
+MB-7152	5958	2	Died of Other Causes	train
+MB-7153	4345	0	Living	train
+MB-7154	3300	2	Died of Other Causes	test
+MB-7155	4557	0	Living	train
+MB-7157	6683	0	Living	train
+MB-7158	1412	1	Died of Disease	test
+MB-7159	667	1	Died of Disease	test
+MB-7160	4505	0	Living	test
+MB-7161	3698	0	Living	test
+MB-7162	4266	0	Living	test
+MB-7163	1601	1	Died of Disease	train
+MB-7164	6432	0	Living	test
+MB-7165	4478	0	Living	train
+MB-7167	4291	0	Living	train
+MB-7168	4579	0	Living	train
+MB-7170	4728	0	Living	train
+MB-7171	4880	2	Died of Other Causes	test
+MB-7172	4543	0	Living	train
+MB-7173	1933	2	Died of Other Causes	test
+MB-7174	4283	0	Living	test
+MB-7176	5915	2	Died of Other Causes	train
+MB-7181	4793	0	Living	test
+MB-7182	1505	1	Died of Disease	train
+MB-7185	3804	1	Died of Disease	test
+MB-7186	148	0	Living	test
+MB-7187	4468	1	Died of Disease	test
+MB-7188	5725	2	Died of Other Causes	train
+MB-7189	4369	1	Died of Disease	train
+MB-7193	2661	2	Died of Other Causes	test
+MB-7194	1420	1	Died of Disease	train
+MB-7195	2447	2	Died of Other Causes	test
+MB-7196	3259	1	Died of Disease	train
+MB-7197	5716	2	Died of Other Causes	train
+MB-7198	509	1	Died of Disease	train
+MB-7199	2312	2	Died of Other Causes	test
+MB-7200	2969	2	Died of Other Causes	test
+MB-7201	4973	0	Living	test
+MB-7205	5052	0	Living	train
+MB-7207	1695	1	Died of Disease	test
+MB-7208	1397	1	Died of Disease	test
+MB-7212	1597	2	Died of Other Causes	test
+MB-7215	6358	2	Died of Other Causes	train
+MB-7216	6313	2	Died of Other Causes	train
+MB-7217	2750	2	Died of Other Causes	test
+MB-7218	5034	0	Living	test
+MB-7219	5027	0	Living	train
+MB-7220	5574	2	Died of Other Causes	test
+MB-7225	1673	1	Died of Disease	test
+MB-7226	1623	1	Died of Disease	test
+MB-7227	1923	2	Died of Other Causes	test
+MB-7228	7277	0	Living	test
+MB-7229	3395	2	Died of Other Causes	train
+MB-7230	5556	0	Living	test
+MB-7231	6056	2	Died of Other Causes	train
+MB-7232	5404	0	Living	train
+MB-7233	6756	2	Died of Other Causes	train
+MB-7234	6761	0	Living	test
+MB-7235	5197	0	Living	train
+MB-7236	6130	2	Died of Other Causes	test
+MB-7237	728	1	Died of Disease	train
+MB-7238	708	1	Died of Disease	train
+MB-7241	5206	0	Living	test
+MB-7243	4527	2	Died of Other Causes	train
+MB-7244	5604	0	Living	train
+MB-7249	1785	2	Died of Other Causes	test
+MB-7250	1551	1	Died of Disease	train
+MB-7251	656	1	Died of Disease	test
+MB-7252	1086	2	Died of Other Causes	test
+MB-7253	1824	1	Died of Disease	train
+MB-7254	5848	0	Living	test
+MB-7256	1055	1	Died of Disease	test
+MB-7258	458	1	Died of Disease	train
+MB-7260	948	0	Living	train
+MB-7262	3165	2	Died of Other Causes	train
+MB-7263	5019	2	Died of Other Causes	test
+MB-7264	1307	1	Died of Disease	test
+MB-7266	2074	1	Died of Disease	train
+MB-7267	5945	2	Died of Other Causes	test
+MB-7268	6921	0	Living	test
+MB-7269	644	1	Died of Disease	test
+MB-7270	5330	0	Living	train
+MB-7273	6335	0	Living	train
+MB-7275	1351	1	Died of Disease	test
+MB-7276	5639	0	Living	train
+MB-7277	5691	0	Living	test
+MB-7278	7342	2	Died of Other Causes	test
+MB-7279	648	1	Died of Disease	test
+MB-7280	5950	0	Living	test
+MB-7281	1507	1	Died of Disease	train
+MB-7283	878	1	Died of Disease	test
+MB-7284	6177	2	Died of Other Causes	test
+MB-7285	3316	1	Died of Disease	train
+MB-7286	4827	2	Died of Other Causes	test
+MB-7287	2950	1	Died of Disease	test
+MB-7288	823	1	Died of Disease	train
+MB-7289	3854	1	Died of Disease	train
+MB-7291	207	1	Died of Disease	train
+MB-7292	2387	1	Died of Disease	test
+MB-7293	6062	0	Living	test
+MB-7294	2517	1	Died of Disease	train
+MB-7295	5990	0	Living	test
+MB-7296	1361	1	Died of Disease	train
+MB-7297	5354	1	Died of Disease	test
+MB-7298	2624	2	Died of Other Causes	train
+MB-7299	6143	2	Died of Other Causes	test
